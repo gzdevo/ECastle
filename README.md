@@ -1,2 +1,2 @@
 # ECastle
-new website
+ new site
